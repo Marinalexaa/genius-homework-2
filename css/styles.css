@@ -126,6 +126,10 @@ button:hover {
 }
 
 /* Header */
+.social-icons {
+  fill: var(--color-primary-dark);
+}
+
 .heder-hero-section {
   width: 100%;
   /* max-width: 1440px; */
@@ -241,6 +245,10 @@ button:hover {
 }
 
 /* Why we section */
+
+.why-we-icons {
+  fill: var(--color-brand);
+}
 
 .why-we-section {
   background: linear-gradient(
